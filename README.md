@@ -106,9 +106,4 @@ Passionate about solving problems and contributing to innovative electronics + s
 
 ---
 
-## ⭐ GitHub Stats (Optional – Add After Creating Profile)
-You can add GitHub stats, contribution graph later after your repos are ready.
-
----
-
 <h3 align="center">🔥 Thank you for visiting my profile!</h3>
